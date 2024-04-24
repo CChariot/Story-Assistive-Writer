@@ -65,3 +65,10 @@
   border: 1px solid #ddd;
   border-radius: 4px;
 }
+
+.story-section .suggestion p {
+  line-height: 2; 
+  font-family: 'Arial', sans-serif; 
+  font-size: 16px; 
+  margin-bottom: 20px; 
+}
