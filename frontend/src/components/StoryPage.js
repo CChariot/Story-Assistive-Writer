@@ -14,7 +14,9 @@ function StoryPage({ stories }) {
           <>
             <section className="story-section">
               <h2>Assistant Suggestions</h2>
-              <p>{story.fullStory}</p>
+                <div className="suggestion">
+                  <p>{story.fullStory}</p>
+                </div>
             </section>
             <section className="story-section">
               <h2>Characters</h2>
